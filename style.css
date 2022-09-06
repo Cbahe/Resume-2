@@ -1,0 +1,19 @@
+body{
+    margin: 50pt 100pt
+}
+html{
+    background-color: antiquewhite;
+}
+h1{
+    color: black;
+    border-bottom: 4px dashed purple;
+    text-align: center;
+    }
+    p {
+    font-family: helvetica
+    color: black;
+    }
+h2{
+        color: orangered;
+        text-align: center;
+    }
