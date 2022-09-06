@@ -18,3 +18,6 @@ h2{
 .horizontal{
     display: flex;
 }
+.horizontal.reverse{
+    flex-direction: row-reverse;
+}
