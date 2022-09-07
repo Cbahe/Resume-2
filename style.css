@@ -1,23 +1,25 @@
-body{
-    margin: 50pt 100pt
+body {
+  margin: 50pt 100pt;
 }
-html{background-color: antiquewhite;}
-h1{
-    color: black;
-    border-bottom: 4px dashed purple;
-    text-align: center;
-    }
-    p {
-    font-family: helvetica
-    color: black;
-    }
-h2{
-        color: rgb(248, 112, 48);
-        text-align: center;
-    }
-.horizontal{
-    display: flex;
+html {
+  background-color: antiquewhite;
 }
-.horizontal.reverse{
-    flex-direction: row-reverse;
+.contact-info {
+  color: black;
+  border-bottom: 4px dashed purple;
+  text-align: center;
+}
+p {
+  font-family: helvetica;
+  color: black;
+}
+h2 {
+  color: rgb(248, 112, 48);
+  text-align: center;
+}
+.horizontal {
+  display: flex;
+}
+.horizontal.reverse {
+  flex-direction: row-reverse;
 }
